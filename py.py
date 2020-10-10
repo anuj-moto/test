@@ -25,4 +25,4 @@ print(5+9)
 #new functions
 a= b+c
 b= b*2
-print("welcome to new version")  #Tanya Thakur
+DEMO #DINESH
