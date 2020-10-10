@@ -1,2 +1,3 @@
 branch - new-version
 line added in branch1
+line added in branch2
