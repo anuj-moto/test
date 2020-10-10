@@ -25,7 +25,7 @@ print(5+9)
 #new functions
 a= b+c
 b= b*2
-print("Team A")
+print("Team A") #Meghana Dhakolia
 DEMO #DINESH
 a+b #AMITA
 print("demo")  #Tanisha Thakur
