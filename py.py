@@ -25,6 +25,5 @@ print(5+9)
 #new functions
 a= b+c
 b= b*2
-print("Team A") #Meghana Dhakolia
-print("welcome to the new version")  #Tanya Thakur
-
+DEMO #DINESH
+a+b #AMITA
